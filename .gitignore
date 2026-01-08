@@ -1,0 +1,20 @@
+# Dataset
+datasets/
+data/
+
+# Model weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+
+# Training outputs
+runs/
+logs/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
